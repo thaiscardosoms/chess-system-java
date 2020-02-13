@@ -11,10 +11,12 @@ import chess.ChessPiece;
 import chess.ChessPosition;
 import chess.Color;
 
+
 public class UI {
 
 	// https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
-
+    //To install the plugin in Eclipse select Help -> Install New Software… and click “Add…” to add the following URL:
+	//http://www.mihai-nita.net/eclipse
 	public static final String ANSI_RESET = "\u001B[0m";
 	public static final String ANSI_BLACK = "\u001B[30m";
 	public static final String ANSI_RED = "\u001B[31m";
